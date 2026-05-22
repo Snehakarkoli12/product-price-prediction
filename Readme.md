@@ -159,10 +159,7 @@ product-price-prediction/
 ├── subcategory_map.pkl
 ├── requirements.txt
 ├── README.md
-│
-└── screenshots/
-    ├── homepage.png
-    └── prediction.png
+
 ```
 ## Dataset
 
